@@ -1,1 +1,3 @@
 # Tower-Hanoi-By-using-C-Programming-
+Author :Rup Dey <br>
+This Is Game Logic To Implement Using Beginner Hope understand And Enjoy It....
